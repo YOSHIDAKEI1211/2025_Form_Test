@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keike\\Documents\\2025_Form_Test\\form_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4CAE31-57F1-4240-AF7A-0D60F0C16253}|form_Test\\form_Test.csproj|c:\\users\\keike\\documents\\2025_form_test\\form_test\\form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C4CAE31-57F1-4240-AF7A-0D60F0C16253}|form_Test\\form_Test.csproj|solutionrelative:form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\keike\\Documents\\2025_Form_Test\\form_Test\\form_Test\\Form1.cs",
+              "RelativeDocumentMoniker": "form_Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\keike\\Documents\\2025_Form_Test\\form_Test\\form_Test\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "form_Test\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T02:55:40.445Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
