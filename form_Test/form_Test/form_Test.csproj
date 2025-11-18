@@ -54,7 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="random.cs" />
     <Compile Include="TestButton.cs">
       <SubType>Component</SubType>
     </Compile>

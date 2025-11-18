@@ -36,9 +36,7 @@ namespace form_Test
                     TestButton testbutton =
                          new TestButton(
                             this,
-                            i, j,BOARD_SIZE_X, BOARD_SIZE_Y,
-                            new Point(BUTTON_SIZE_X * i, BUTTON_SIZE_Y * j)
-                            , new Size(BUTTON_SIZE_X, BUTTON_SIZE_Y), "");
+                            i, j,BOARD_SIZE_X,BOARD_SIZE_Y,new Size(BUTTON_SIZE_X,BUTTON_SIZE_Y), "");
 
                     _buttonArray[j, i] = testbutton;
 
